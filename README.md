@@ -4,7 +4,7 @@ Hi 👋 My name is yawiphon
 Faculty of Computer Enginering
 ------------------------------
 
-* 🌍  I'm based in I'm based i bangkok
+* 🌍  I'm based in I'm based i Surat Thani
 * ✉️  You can contact me at [IG:kaxwpaya\_](mailto:IG:kaxwpaya_)
 * 🚀  I'm currently working on [Faculty of Computer Enginering students at RSU](http://rsu)
 
@@ -38,3 +38,4 @@ src="https://img.shields.io/github/followers/Yawiphon19042548 (Yawiphon19042548)
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+### 
